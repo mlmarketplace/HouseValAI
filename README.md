@@ -1,2 +1,2 @@
 # HouseValAI
-Comparative Study of Regression Models for Housing Price Prediction
+An end-to-end regression model predicting California housing prices using Linear, Ridge, Lasso, and Random Forest
